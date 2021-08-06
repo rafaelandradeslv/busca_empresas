@@ -29,3 +29,13 @@ git branch nome_da_branch
 
 git checkout nome_da_branch
 	- seleciona a branch que se deseja usar
+
+git pull
+	- atauliza informações mais atual 
+
+git merge nome_da_branch
+	- une as branchs informadas
+
+git checkout -b nova_branch copiar_da_branch
+	- cria e já seleciona a nova branch  com os dados da branch especificada
+
