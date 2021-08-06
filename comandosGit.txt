@@ -1,0 +1,31 @@
+# Comandos do Git
+
+git status
+	- visualiza status, modificaççoes
+
+git add "nome arquivo"
+	- adiciona um arquivo com nome especificado
+
+git add .
+	-adiciona todos os arquivos
+
+git commit -m "breve descrição aqui"
+	- adiciona as modificações que que serão enviadas
+
+git push
+	- envia os arquivos para a branch
+
+git reflog
+	- visualiza o histórico de commit
+
+git reset --hard id_da_versão
+	- navega nos commits realizados
+
+git branch 
+	- visualize as branchs existentes
+
+git branch nome_da_branch
+	- cria nova branch
+
+git checkout nome_da_branch
+	- seleciona a branch que se deseja usar
