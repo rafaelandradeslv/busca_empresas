@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+beautifulsoup4
+selenium==3.141.0
+plotly==5.1.0
