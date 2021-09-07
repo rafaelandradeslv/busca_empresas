@@ -1,2 +1,2 @@
 # busca_empresas
-Aplicando técnica Scrapping, extraindo dados para montar dataset
+Aplicando técnica Scraping, extraindo dados para montar dataset

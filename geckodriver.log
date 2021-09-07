@@ -1,0 +1,263 @@
+1631040198982	geckodriver	INFO	Listening on 127.0.0.1:5857
+1631040202037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileB1HQJX"
+*** You are running in headless mode.
+1631040243608	geckodriver	INFO	Listening on 127.0.0.1:12723
+1631040246640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile3EbnzE"
+*** You are running in headless mode.
+1631040247139	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile3EbnzE\\search.json.mozlz4", (void 0)))
+1631040249854	Marionette	INFO	Listening on port 12731
+1631040250315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/C/15613813000124-COMP-DE-DESENV-DE-RECURSOS-HIDRICOS-E-I-DE-SERGIPE;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040253882	Marionette	INFO	Stopped listening on port 12731
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/46/3/intl/pt_br/common.js, line 106: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040270996	geckodriver	INFO	Listening on 127.0.0.1:12816
+1631040274015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile6f79gD"
+*** You are running in headless mode.
+1631040274379	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile6f79gD\\search.json.mozlz4", (void 0)))
+1631040275730	Marionette	INFO	Listening on port 12824
+1631040276062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040276235	Marionette	INFO	Stopped listening on port 12824
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040276886	geckodriver	INFO	Listening on 127.0.0.1:12852
+1631040279901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileatwGtr"
+*** You are running in headless mode.
+1631040280253	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileatwGtr\\search.json.mozlz4", (void 0)))
+1631040281730	Marionette	INFO	Listening on port 12860
+1631040281956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040282162	Marionette	INFO	Stopped listening on port 12860
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040282825	geckodriver	INFO	Listening on 127.0.0.1:12887
+1631040285853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileh6ZN6X"
+*** You are running in headless mode.
+1631040286244	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileh6ZN6X\\search.json.mozlz4", (void 0)))
+1631040287647	Marionette	INFO	Listening on port 12895
+1631040287921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/C/16894622000140-CLINRADI-S-S-LTDA;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040290856	Marionette	INFO	Stopped listening on port 12895
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040308089	geckodriver	INFO	Listening on 127.0.0.1:12983
+1631040311115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileI392QJ"
+*** You are running in headless mode.
+1631040311506	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileI392QJ\\search.json.mozlz4", (void 0)))
+1631040312890	Marionette	INFO	Listening on port 12991
+1631040313176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040313354	Marionette	INFO	Stopped listening on port 12991
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040314027	geckodriver	INFO	Listening on 127.0.0.1:13018
+1631040317056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofilezrbiCb"
+*** You are running in headless mode.
+1631040317440	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofilezrbiCb\\search.json.mozlz4", (void 0)))
+1631040318845	Marionette	INFO	Listening on port 13026
+1631040319111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040319326	Marionette	INFO	Stopped listening on port 13026
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040320030	geckodriver	INFO	Listening on 127.0.0.1:13054
+1631040323057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileeTjnvi"
+*** You are running in headless mode.
+1631040323483	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileeTjnvi\\search.json.mozlz4", (void 0)))
+1631040325106	Marionette	INFO	Listening on port 13062
+1631040325235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/C/23052767000160-COOPERATIVA-DE-PRODUCAO-PRESTACAO-DE-SERVICO-AUTO-CONSUMO-E-ECONOMIA-SOLIDARIA-COOPESA;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040328494	Marionette	INFO	Stopped listening on port 13062
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040329269	geckodriver	INFO	Listening on 127.0.0.1:13135
+1631040332320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileaaNaQW"
+*** You are running in headless mode.
+1631040332673	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileaaNaQW\\search.json.mozlz4", (void 0)))
+1631040334035	Marionette	INFO	Listening on port 13144
+1631040334382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/C/13158985000120-CLIMEDI-CLINICA-DE-MEDICINA-NUCLEAR-ENDOCRINOLOGIA-E-DIABETE-SOCIEDADE-SIMPLES;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040337526	Marionette	INFO	Stopped listening on port 13144
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/46/3/intl/pt_br/common.js, line 106: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040354673	geckodriver	INFO	Listening on 127.0.0.1:13228
+1631040357725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileAFhnDv"
+*** You are running in headless mode.
+1631040358103	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileAFhnDv\\search.json.mozlz4", (void 0)))
+1631040359366	Marionette	INFO	Listening on port 13236
+1631040359807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/POCO-REDONDO/C/18747090000144-COOPERATIVA-DE-TRANSPORTE-ALTERNATIVO-DE-PASSAGEIROS-DO-ALTO-SERTAO-DE-SERGIPE;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040363018	Marionette	INFO	Stopped listening on port 13236
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040380114	geckodriver	INFO	Listening on 127.0.0.1:7020
+1631040383135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileereEjg"
+*** You are running in headless mode.
+1631040383490	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileereEjg\\search.json.mozlz4", (void 0)))
+1631040384764	Marionette	INFO	Listening on port 7028
+1631040385195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/BARRA-DOS-COQUEIROS/C/13382911000172-COMPANHIA-ADMINISTRADORA-DA-ZONA-DE-PROCESSAMENTO-DE-EXPORTACAO-DE-SERGIPE-ZPE-SERGIPE;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040388215	Marionette	INFO	Stopped listening on port 7028
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040405300	geckodriver	INFO	Listening on 127.0.0.1:7111
+1631040408374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofiledsuVzW"
+*** You are running in headless mode.
+1631040408702	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofiledsuVzW\\search.json.mozlz4", (void 0)))
+1631040409998	Marionette	INFO	Listening on port 7120
+1631040410423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040410583	Marionette	INFO	Stopped listening on port 7120
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040411209	geckodriver	INFO	Listening on 127.0.0.1:7147
+1631040414247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofilevV6Ueq"
+*** You are running in headless mode.
+1631040414604	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofilevV6Ueq\\search.json.mozlz4", (void 0)))
+1631040415885	Marionette	INFO	Listening on port 7155
+1631040416297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/R/03957223000130-RESENDE-REZENDE-ANDRADE-SANTA-RITA-SANTANA-BARBOSA-OLIVEIRA-MALUF-ADVOCACIA;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040419378	Marionette	INFO	Stopped listening on port 7155
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/46/3/intl/pt_br/common.js, line 106: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040436488	geckodriver	INFO	Listening on 127.0.0.1:7238
+1631040439529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile8N8jdK"
+*** You are running in headless mode.
+1631040439892	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile8N8jdK\\search.json.mozlz4", (void 0)))
+1631040441222	Marionette	INFO	Listening on port 7246
+1631040441576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/A/21750471000197-ALMEIDA-BORGES-ADVOGADOS-ASSOCIADOS;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040444592	Marionette	INFO	Stopped listening on port 7246
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040461818	geckodriver	INFO	Listening on 127.0.0.1:7333
+1631040464840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileZytExS"
+*** You are running in headless mode.
+1631040465198	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofileZytExS\\search.json.mozlz4", (void 0)))
+1631040466391	Marionette	INFO	Listening on port 7344
+1631040466898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/S/13038153000170-SERGECO-ASSISTENCIA-CONTABIL-S-S;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040469996	Marionette	INFO	Stopped listening on port 7344
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040487114	geckodriver	INFO	Listening on 127.0.0.1:7426
+1631040490147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile5a8ffK"
+*** You are running in headless mode.
+1631040490475	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile5a8ffK\\search.json.mozlz4", (void 0)))
+1631040491828	Marionette	INFO	Listening on port 7434
+1631040492213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/PORTO-DA-FOLHA/C/07978329000170-COOPERATIVA-DOS-PECUARISTAS-E-AGRICULTORES-UNIAO;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040495376	Marionette	INFO	Stopped listening on port 7434
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631040512470	geckodriver	INFO	Listening on 127.0.0.1:7524
+1631040515516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofilebbmMYZ"
+*** You are running in headless mode.
+1631040515837	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofilebbmMYZ\\search.json.mozlz4", (void 0)))
+1631040517129	Marionette	INFO	Listening on port 7534
+1631040517557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ARACAJU/J/08583255000136-JARDINS-CIA-REPRESENTACOES-LTDA;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040520552	Marionette	INFO	Stopped listening on port 7534
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040537675	geckodriver	INFO	Listening on 127.0.0.1:11166
+1631040540717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile3c7nwE"
+*** You are running in headless mode.
+1631040541086	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rafae\\AppData\\Local\\Temp\\rust_mozprofile3c7nwE\\search.json.mozlz4", (void 0)))
+1631040542419	Marionette	INFO	Listening on port 11174
+1631040542779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.econodata.com.br/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.econodata.com.br/js/main.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.econodata.com.br/jquery.mask.min.js, line 7: TypeError: g is undefined
+JavaScript error: https://www.econodata.com.br/lista-empresas/SERGIPE/ESTANCIA/C/04393949000150-COOPASE-COOPERATIVA-DE-TRANSPORTE-ALTERNATIVO-DE-SERGIPE;jsessionid=1DE2E0B9C0F544FDF696FC411B37D182 line 306 > injectedScript, line 2: ReferenceError: $ is not defined
+1631040545694	Marionette	INFO	Stopped listening on port 11174
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/46/3/intl/pt_br/common.js, line 106: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
